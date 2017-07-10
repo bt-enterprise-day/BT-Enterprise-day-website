@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>BT ENTERPRISE DAY-ABOUT</title>
 <style>
 body{
 background-color:white;
@@ -10,8 +11,8 @@ background-color:white;
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 </head>
-<body>
-<nav class="navbar navbar-inverse bg-fade" style="background-color:darkblue;">
+<body style="margin:10px;background-image:url(http://wlkt.ustc.edu.cn/userfiles/201706/1498441649645256532.jpg)">
+<nav class="navbar navbar-inverse bg-fade">
   <div class="container-fluid">
     <div class="navbar-header">
       <a class="navbar-brand" href="#"><img src="BT_logo.png" width=100px height=50px></a>
@@ -37,7 +38,8 @@ background-color:white;
     </form>
   </div>
 </nav>
-<h1 style="color:black; text-align:center;"><b><i>About</i></b></h1>
+<div class="container-fluid" style="font-size:150%">
+<h2 style="color:black; text-align:center;"><b><i>About</i></b></h2>
 <p2> The BT Business Enterprise Day event is aimed at around two-hundred Year 9 or Year
 10 students of mixed ability. You are grouped together into 'businesses'
 who compete to be the most successful company of the day.
@@ -63,10 +65,10 @@ the end of the day! <br>
 
 
 Ultimately, you are organising and building a factory that produces many cars at a great price.
+</div>
 
 
 
-
-<img src="https://pbs.twimg.com/media/Cf6q0yfW4AQOTLS.jpg" alt="Enterprise day" height = 500 width = 900 align="right">
+<img src="https://pbs.twimg.com/media/Cf6q0yfW4AQOTLS.jpg" alt="Enterprise day" height = 400 width = 700 align="middle">
  
 </html>
