@@ -19,7 +19,7 @@
       <li><a href="quick.html">Quick Start Guide</a></li>
       <li><a href="bank.html">The Bank</a></li>
       <li><a href="stockmarket.html">Stock Market</a></li>
-      <li><a href="#">Car Factory</a></li>
+      <li><a href="CarFactory.html">Car Factory</a></li>
       <li><a href="TheShop.html">The Shop</a></li>ory</a></li>
     </ul>
     <form class="navbar-form navbar-right">
@@ -42,10 +42,12 @@ aimed at around two-hundred Year 9 or Year 10 students of mixed
 ability. You are grouped together into 'businesses' who compete to be
 the most successful company of the day. At the end of the day, the
 most successful company will win. Winning the day is quite simple;
-you must have the most cash in the bank at the end of the day!
+you must have the most cash in the bank at the end of the day!</p>
 <br>
 <br>
-There are a variety of methods to gain cash: <br>
+<div class="row">
+<div class="col-sm-6">
+<p>There are a variety of methods to gain cash: <br>
 -Completing
 tasks such as trading on a stock exchange <br>
 -Using and managing a
@@ -55,12 +57,12 @@ tasks such as trading on a stock exchange <br>
 -Raising capital thorugh physical and mental activities<br>
 -Making cars from constituent parts such as engines and body
 panels (although these cost money to purchase themselves)</p>
-
-<p>Ultimately, you are organising and building a factory that produces many cars at a great price.</p>
-
 </div>
-<div align=center>
-	<img src="https://i.vimeocdn.com/video/482413697_780x439.jpg" class="img-thumbnail" width=75% height=75%> 
+<div class="col-sm-6" align="right">
+	<img src="https://i.vimeocdn.com/video/482413697_780x439.jpg" class="img-thumbnail" width=100% height=100%> 
+</div>
+</div>
+<p>Ultimately, you are organising and building a factory that produces many cars at a great price.</p>
 </div>
 </body>
 </html>
