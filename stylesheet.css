@@ -16,3 +16,22 @@ h2 {
 p.paragraph{
 	font-size:85%;
 	}
+ /* unvisited link */
+a:link {
+    color: black;
+	}
+
+/* visited link */
+a:visited {
+    color: black;
+	}
+
+/* mouse over link */
+a:hover {
+    color: black;
+	}
+
+/* selected link */
+a:active {
+    color: black;
+	} 
