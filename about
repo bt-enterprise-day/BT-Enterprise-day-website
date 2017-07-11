@@ -1,4 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,8 +36,9 @@
   </div>
 </nav>
 <div class="container-fluid main-text">
+
 <h2><i><b>About</b></i></h2>
-<p style="margin-bottom: 0cm">The BT Business Enterprise Day event is
+<p>The BT Business Enterprise Day event is
 aimed at around two-hundred Year 9 or Year 10 students of mixed
 ability. You are grouped together into 'businesses' who compete to be
 the most successful company of the day. At the end of the day, the
@@ -60,6 +60,9 @@ tasks such as trading on a stock exchange <br/>
 panels (although these cost money to purchase themselves) Ultimately,
 you are organising and building a factory that produces many cars at
 a great price.</p>
+
+<p>Ultimately, you are organising and building a factory that produces many cars at a great price.</p>
+
 </div>
 </body>
 </html>
