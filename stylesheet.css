@@ -1,15 +1,16 @@
 
 body {
-	margin:10px;
 	background-image:url(https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-9-full.jpg);
+	background-size: 150% 150%;
 	}
 h2 {
 	text-align:center;
 	}
 .main-text{
+	margin:10px;
 	font-size:150%;
 	}
-p.Explanation{
+.Explanation{
 	font-size:75%;
 	}
 p.paragraph{
